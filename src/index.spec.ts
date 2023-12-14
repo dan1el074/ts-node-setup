@@ -1,6 +1,6 @@
-import { Person } from "."
+import { Person } from "@/index"
 
 it("should say my name", () => {
-    const person = new Person()
-    expect(person.sayMyName()).toBe("Daniel!")
+  const person = new Person()
+  expect(person.sayMyName()).toBe("Daniel!")
 })
