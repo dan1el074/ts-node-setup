@@ -1,4 +1,4 @@
-import Person from "."
+import { Person } from "."
 
 it("should say my name", () => {
     const person = new Person()

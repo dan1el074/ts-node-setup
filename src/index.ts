@@ -1,7 +1,5 @@
-class Person {
+export class Person {
     sayMyName() {
         return "Daniel"
     }
 }
-
-export default Person
