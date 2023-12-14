@@ -3,3 +3,5 @@ export class Person {
     return "Daniel!"
   }
 }
+
+console.log(new Person().sayMyName())
