@@ -1,5 +1,5 @@
 export class Person {
     sayMyName() {
-        return "Daniel"
+        return "Daniel!"
     }
 }
